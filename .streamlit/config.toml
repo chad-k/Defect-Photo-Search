@@ -1,0 +1,7 @@
+[browser]
+gatherUsageStats = false
+[server]
+maxUploadSize = 20
+[theme]
+base = "light"
+primaryColor = "#007f82"

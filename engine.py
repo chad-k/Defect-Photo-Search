@@ -1,7 +1,7 @@
 import os
-# Search never downloads model files. Only download_model.py may access the model hub.
-os.environ['HF_HUB_OFFLINE']='1'
-os.environ['TRANSFORMERS_OFFLINE']='1'
+# Cloud edition: model downloads are permitted; images are processed on this server.
+os.environ.pop('HF_HUB_OFFLINE',None)
+os.environ.pop('TRANSFORMERS_OFFLINE',None)
 os.environ['HF_HUB_DISABLE_TELEMETRY']='1'
 from pathlib import Path
 from functools import lru_cache
@@ -9,6 +9,8 @@ import hashlib
 import io
 import json
 import uuid
+import threading
+import streamlit as st
 import numpy as np
 from PIL import Image, ImageOps, ImageFilter
 
@@ -54,27 +56,38 @@ def basic_features(im):
     chroma=np.array([np.mean(a[:,:,0]-a[:,:,2])*20, np.std(g)*5, np.mean(magnitude)*15])
     return normalize(np.concatenate([normalize(spatial),normalize(orientation)*.5,normalize(contrast)*.3,normalize(colors)*.3,power*2,chroma*2]))
 
-@lru_cache(maxsize=2)
-def clip_model(folder):
-    from transformers import CLIPImageProcessor, CLIPVisionModelWithProjection
-    path=Path(folder)
-    if not (path/'config.json').exists():
-        raise ValueError('CLIP model not installed. Run download_model.py once while online, then restart the app.')
-    processor=CLIPImageProcessor.from_pretrained(path,local_files_only=True)
-    model=CLIPVisionModelWithProjection.from_pretrained(path,local_files_only=True,use_safetensors=True).eval()
-    return processor,model
+MODEL_ID='openai/clip-vit-base-patch32'
+MODEL_REVISION='3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268'
 
-def embed(im,method,model_dir):
+@st.cache_resource(show_spinner=False)
+def clip_model(folder=None):
+    import torch
+    from transformers import CLIPImageProcessor, CLIPVisionModelWithProjection
+    torch.set_num_threads(2)
+    processor=CLIPImageProcessor.from_pretrained(MODEL_ID,revision=MODEL_REVISION)
+    # The pinned official release supplies pytorch_model.bin. Restrict loading to weights.
+    model=CLIPVisionModelWithProjection.from_pretrained(
+        MODEL_ID,revision=MODEL_REVISION,use_safetensors=False,
+        weights_only=True,trust_remote_code=False).eval()
+    return processor,model,threading.RLock()
+
+def embed(im,method,model_dir=None):
     if method=='Demo visual features': return basic_features(im)
     import torch
-    processor,model=clip_model(str(model_dir))
-    with torch.inference_mode():
+    processor,model,lock=clip_model()
+    with lock,torch.inference_mode():
         out=model(**processor(images=im,return_tensors='pt')).image_embeds
     return normalize(out[0].cpu().numpy())
 
-@lru_cache(maxsize=256)
-def cached_embed(data,method,model_dir):
-    return embed(read_image(data),method,model_dir)
+def pixel_hash(im):
+    im=im.convert('RGB')
+    return hashlib.sha256(str(im.size).encode()+im.tobytes()).hexdigest()
+
+@lru_cache(maxsize=128)
+def reference_feature(path,mtime,size,method):
+    # Only bundled public images enter this shared cache; no uploaded image bytes.
+    im=read_image(path)
+    return pixel_hash(im),embed(im,method)
 
 def load_cases(root):
     root=Path(root); file=root/'cases.json'
@@ -84,30 +97,34 @@ def load_cases(root):
     return records
 
 def image_path(root,row):
+    if '_image_bytes' in row: return io.BytesIO(row['_image_bytes'])
     root=Path(root).resolve(); path=(root/row['image']).resolve()
     if not path.is_relative_to(root): raise ValueError('Image must be inside the case folder.')
     return path
 
-def search(query,rows,root,method,model_dir,exclude_bytes=None):
-    q=embed(query,method,model_dir); found=[]; errors=[]
-    exclude_hash=hashlib.sha256(exclude_bytes).hexdigest() if exclude_bytes else None
+def search(query,rows,root,method,model_dir=None,exclude_bytes=None):
+    q=embed(query,method); found=[]; errors=[]
+    exclude_hash=pixel_hash(read_image(exclude_bytes)) if exclude_bytes else None
     for row in rows:
         try:
-            data=png_bytes(read_image(image_path(root,row)))
-            if exclude_hash and hashlib.sha256(data).hexdigest()==exclude_hash: continue
-            vec=cached_embed(data,method,str(model_dir))
+            if '_image_bytes' in row:
+                im=read_image(row['_image_bytes']); digest=pixel_hash(im)
+                if digest==exclude_hash: continue
+                vec=embed(im,method)
+            else:
+                path=image_path(root,row); stat=path.stat()
+                digest,vec=reference_feature(str(path),stat.st_mtime_ns,stat.st_size,method)
+                if digest==exclude_hash: continue
             found.append((float(np.clip(q@vec,-1,1)),row))
         except (OSError,ValueError,KeyError) as exc:
             errors.append(f"{row.get('case_id','Unknown')}: {exc}")
     return sorted(found,key=lambda x:x[0],reverse=True),errors
 
-def add_case(root,im,metadata):
-    root=Path(root); (root/'images').mkdir(parents=True,exist_ok=True)
-    rows=load_cases(root); cid='CASE-'+uuid.uuid4().hex[:10]
-    path=f'images/{cid}.png'; im.save(root/path)
-    row=dict(metadata,case_id=cid,image=path,synthetic=False)
-    rows.append(row)
-    tmp=root/'cases.tmp'
-    tmp.write_text(json.dumps(rows,indent=2),encoding='utf-8')
-    tmp.replace(root/'cases.json')
+def add_session_case(rows,im,metadata):
+    if len(rows)>=20: raise ValueError('Maximum 20 temporary references per session.')
+    data=png_bytes(im)
+    if sum(len(r['_image_bytes']) for r in rows)+len(data)>50*1024*1024:
+        raise ValueError('Session reference limit is 50 MB. Clear session cases to start again.')
+    cid='SESSION-'+uuid.uuid4().hex[:10]
+    rows.append(dict(metadata,case_id=cid,_image_bytes=data,synthetic=False))
     return cid

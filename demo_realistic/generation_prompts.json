@@ -1,0 +1,802 @@
+[
+  {
+    "index": 1,
+    "category": "scratch",
+    "variant": 1,
+    "filename": "ref_scratch_01.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of rectangular satin aluminum inspection coupon with rounded corners. Show several uneven diagonal or curved surface scratches. Defect layout: small off-center feature near the upper right, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "rectangular satin aluminum inspection coupon with rounded corners"
+  },
+  {
+    "index": 2,
+    "category": "scratch",
+    "variant": 2,
+    "filename": "ref_scratch_02.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of folded steel equipment cover. Show several uneven diagonal or curved surface scratches. Defect layout: two adjacent localized features near the lower left, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, moderately oblique view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "folded steel equipment cover"
+  },
+  {
+    "index": 3,
+    "category": "scratch",
+    "variant": 3,
+    "filename": "ref_scratch_03.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of flat stainless steel mounting plate. Show several uneven diagonal or curved surface scratches. Defect layout: one central irregular feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, tight detail view including a little part geometry. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "flat stainless steel mounting plate"
+  },
+  {
+    "index": 4,
+    "category": "scratch",
+    "variant": 4,
+    "filename": "ref_scratch_04.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of galvanized stamped sheet component. Show several uneven diagonal or curved surface scratches. Defect layout: a narrow feature near an edge, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "galvanized stamped sheet component"
+  },
+  {
+    "index": 5,
+    "category": "scratch",
+    "variant": 5,
+    "filename": "ref_scratch_05.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of turned steel bushing with a broad rim. Show several uneven diagonal or curved surface scratches. Defect layout: a slightly curved feature with uneven detail, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, moderately oblique view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "turned steel bushing with a broad rim"
+  },
+  {
+    "index": 6,
+    "category": "scratch",
+    "variant": 6,
+    "filename": "ref_scratch_06.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of machined aluminum end plate. Show several uneven diagonal or curved surface scratches. Defect layout: a broad irregular local feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, tight detail view including a little part geometry. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "machined aluminum end plate"
+  },
+  {
+    "index": 7,
+    "category": "scratch",
+    "variant": 7,
+    "filename": "ref_scratch_07.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of pressed steel shallow channel. Show several uneven diagonal or curved surface scratches. Defect layout: several short localized features, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "pressed steel shallow channel"
+  },
+  {
+    "index": 8,
+    "category": "scratch",
+    "variant": 8,
+    "filename": "ref_scratch_08.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of cast aluminum ribbed casing. Show several uneven diagonal or curved surface scratches. Defect layout: a diagonally oriented feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, moderately oblique view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "cast aluminum ribbed casing"
+  },
+  {
+    "index": 9,
+    "category": "scratch",
+    "variant": 9,
+    "filename": "ref_scratch_09.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of circular steel mounting ring with bolt holes. Show several uneven diagonal or curved surface scratches. Defect layout: a localized feature next to a manufactured corner, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, tight detail view including a little part geometry. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "circular steel mounting ring with bolt holes"
+  },
+  {
+    "index": 10,
+    "category": "scratch",
+    "variant": 10,
+    "filename": "ref_scratch_10.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of stainless steel rectangular machine guard. Show several uneven diagonal or curved surface scratches. Defect layout: one asymmetrical local feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "stainless steel rectangular machine guard"
+  },
+  {
+    "index": 11,
+    "category": "crack",
+    "variant": 1,
+    "filename": "ref_crack_01.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of cream molded plastic junction enclosure. Show a narrow irregular branched crack splitting the solid material. Defect layout: two adjacent localized features near the lower left, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "cream molded plastic junction enclosure"
+  },
+  {
+    "index": 12,
+    "category": "crack",
+    "variant": 2,
+    "filename": "ref_crack_02.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of charcoal ABS instrument shell. Show a narrow irregular branched crack splitting the solid material. Defect layout: one central irregular feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, moderately oblique view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "charcoal ABS instrument shell"
+  },
+  {
+    "index": 13,
+    "category": "crack",
+    "variant": 3,
+    "filename": "ref_crack_03.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of gray polymer mounting foot. Show a narrow irregular branched crack splitting the solid material. Defect layout: a narrow feature near an edge, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, tight detail view including a little part geometry. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "gray polymer mounting foot"
+  },
+  {
+    "index": 14,
+    "category": "crack",
+    "variant": 4,
+    "filename": "ref_crack_04.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of blue plastic storage lid. Show a narrow irregular branched crack splitting the solid material. Defect layout: a slightly curved feature with uneven detail, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "blue plastic storage lid"
+  },
+  {
+    "index": 15,
+    "category": "crack",
+    "variant": 5,
+    "filename": "ref_crack_05.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of ivory molded terminal connector body. Show a narrow irregular branched crack splitting the solid material. Defect layout: a broad irregular local feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, moderately oblique view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "ivory molded terminal connector body"
+  },
+  {
+    "index": 16,
+    "category": "crack",
+    "variant": 6,
+    "filename": "ref_crack_06.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of slate gray molded control enclosure. Show a narrow irregular branched crack splitting the solid material. Defect layout: several short localized features, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, tight detail view including a little part geometry. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "slate gray molded control enclosure"
+  },
+  {
+    "index": 17,
+    "category": "crack",
+    "variant": 7,
+    "filename": "ref_crack_07.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of white polymer shallow tray corner. Show a narrow irregular branched crack splitting the solid material. Defect layout: a diagonally oriented feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "white polymer shallow tray corner"
+  },
+  {
+    "index": 18,
+    "category": "crack",
+    "variant": 8,
+    "filename": "ref_crack_08.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of tan plastic mounting post. Show a narrow irregular branched crack splitting the solid material. Defect layout: a localized feature next to a manufactured corner, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, moderately oblique view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "tan plastic mounting post"
+  },
+  {
+    "index": 19,
+    "category": "crack",
+    "variant": 9,
+    "filename": "ref_crack_09.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of green molded pipe connector. Show a narrow irregular branched crack splitting the solid material. Defect layout: one asymmetrical local feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, tight detail view including a little part geometry. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "green molded pipe connector"
+  },
+  {
+    "index": 20,
+    "category": "crack",
+    "variant": 10,
+    "filename": "ref_crack_10.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of light gray threaded plastic end cap. Show a narrow irregular branched crack splitting the solid material. Defect layout: small off-center feature near the upper right, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "light gray threaded plastic end cap"
+  },
+  {
+    "index": 21,
+    "category": "pitting",
+    "variant": 1,
+    "filename": "ref_pitting_01.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of rectangular satin aluminum inspection coupon with rounded corners. Show scattered irregular shallow pits and small cavities clustered locally. Defect layout: one central irregular feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "rectangular satin aluminum inspection coupon with rounded corners"
+  },
+  {
+    "index": 22,
+    "category": "pitting",
+    "variant": 2,
+    "filename": "ref_pitting_02.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of folded steel equipment cover. Show scattered irregular shallow pits and small cavities clustered locally. Defect layout: a narrow feature near an edge, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, moderately oblique view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "folded steel equipment cover"
+  },
+  {
+    "index": 23,
+    "category": "pitting",
+    "variant": 3,
+    "filename": "ref_pitting_03.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of flat stainless steel mounting plate. Show scattered irregular shallow pits and small cavities clustered locally. Defect layout: a slightly curved feature with uneven detail, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, tight detail view including a little part geometry. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "flat stainless steel mounting plate"
+  },
+  {
+    "index": 24,
+    "category": "pitting",
+    "variant": 4,
+    "filename": "ref_pitting_04.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of galvanized stamped sheet component. Show scattered irregular shallow pits and small cavities clustered locally. Defect layout: a broad irregular local feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "galvanized stamped sheet component"
+  },
+  {
+    "index": 25,
+    "category": "pitting",
+    "variant": 5,
+    "filename": "ref_pitting_05.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of turned steel bushing with a broad rim. Show scattered irregular shallow pits and small cavities clustered locally. Defect layout: several short localized features, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, moderately oblique view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "turned steel bushing with a broad rim"
+  },
+  {
+    "index": 26,
+    "category": "pitting",
+    "variant": 6,
+    "filename": "ref_pitting_06.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of machined aluminum end plate. Show scattered irregular shallow pits and small cavities clustered locally. Defect layout: a diagonally oriented feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, tight detail view including a little part geometry. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "machined aluminum end plate"
+  },
+  {
+    "index": 27,
+    "category": "pitting",
+    "variant": 7,
+    "filename": "ref_pitting_07.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of pressed steel shallow channel. Show scattered irregular shallow pits and small cavities clustered locally. Defect layout: a localized feature next to a manufactured corner, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "pressed steel shallow channel"
+  },
+  {
+    "index": 28,
+    "category": "pitting",
+    "variant": 8,
+    "filename": "ref_pitting_08.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of cast aluminum ribbed casing. Show scattered irregular shallow pits and small cavities clustered locally. Defect layout: one asymmetrical local feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, moderately oblique view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "cast aluminum ribbed casing"
+  },
+  {
+    "index": 29,
+    "category": "pitting",
+    "variant": 9,
+    "filename": "ref_pitting_09.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of circular steel mounting ring with bolt holes. Show scattered irregular shallow pits and small cavities clustered locally. Defect layout: small off-center feature near the upper right, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, tight detail view including a little part geometry. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "circular steel mounting ring with bolt holes"
+  },
+  {
+    "index": 30,
+    "category": "pitting",
+    "variant": 10,
+    "filename": "ref_pitting_10.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of stainless steel rectangular machine guard. Show scattered irregular shallow pits and small cavities clustered locally. Defect layout: two adjacent localized features near the lower left, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "stainless steel rectangular machine guard"
+  },
+  {
+    "index": 31,
+    "category": "dent",
+    "variant": 1,
+    "filename": "ref_dent_01.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of rectangular satin aluminum inspection coupon with rounded corners. Show a localized shallow impact dent visible through surface deformation and reflections. Defect layout: a narrow feature near an edge, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "rectangular satin aluminum inspection coupon with rounded corners"
+  },
+  {
+    "index": 32,
+    "category": "dent",
+    "variant": 2,
+    "filename": "ref_dent_02.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of folded steel equipment cover. Show a localized shallow impact dent visible through surface deformation and reflections. Defect layout: a slightly curved feature with uneven detail, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, moderately oblique view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "folded steel equipment cover"
+  },
+  {
+    "index": 33,
+    "category": "dent",
+    "variant": 3,
+    "filename": "ref_dent_03.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of flat stainless steel mounting plate. Show a localized shallow impact dent visible through surface deformation and reflections. Defect layout: a broad irregular local feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, tight detail view including a little part geometry. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "flat stainless steel mounting plate"
+  },
+  {
+    "index": 34,
+    "category": "dent",
+    "variant": 4,
+    "filename": "ref_dent_04.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of galvanized stamped sheet component. Show a localized shallow impact dent visible through surface deformation and reflections. Defect layout: several short localized features, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "galvanized stamped sheet component"
+  },
+  {
+    "index": 35,
+    "category": "dent",
+    "variant": 5,
+    "filename": "ref_dent_05.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of turned steel bushing with a broad rim. Show a localized shallow impact dent visible through surface deformation and reflections. Defect layout: a diagonally oriented feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, moderately oblique view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "turned steel bushing with a broad rim"
+  },
+  {
+    "index": 36,
+    "category": "dent",
+    "variant": 6,
+    "filename": "ref_dent_06.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of machined aluminum end plate. Show a localized shallow impact dent visible through surface deformation and reflections. Defect layout: a localized feature next to a manufactured corner, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, tight detail view including a little part geometry. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "machined aluminum end plate"
+  },
+  {
+    "index": 37,
+    "category": "dent",
+    "variant": 7,
+    "filename": "ref_dent_07.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of pressed steel shallow channel. Show a localized shallow impact dent visible through surface deformation and reflections. Defect layout: one asymmetrical local feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "pressed steel shallow channel"
+  },
+  {
+    "index": 38,
+    "category": "dent",
+    "variant": 8,
+    "filename": "ref_dent_08.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of cast aluminum ribbed casing. Show a localized shallow impact dent visible through surface deformation and reflections. Defect layout: small off-center feature near the upper right, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, moderately oblique view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "cast aluminum ribbed casing"
+  },
+  {
+    "index": 39,
+    "category": "dent",
+    "variant": 9,
+    "filename": "ref_dent_09.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of circular steel mounting ring with bolt holes. Show a localized shallow impact dent visible through surface deformation and reflections. Defect layout: two adjacent localized features near the lower left, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, tight detail view including a little part geometry. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "circular steel mounting ring with bolt holes"
+  },
+  {
+    "index": 40,
+    "category": "dent",
+    "variant": 10,
+    "filename": "ref_dent_10.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of stainless steel rectangular machine guard. Show a localized shallow impact dent visible through surface deformation and reflections. Defect layout: one central irregular feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "stainless steel rectangular machine guard"
+  },
+  {
+    "index": 41,
+    "category": "stain",
+    "variant": 1,
+    "filename": "ref_stain_01.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of rectangular satin aluminum inspection coupon with rounded corners. Show a translucent irregular brownish residue stain with no rust flaking or cavities. Defect layout: a slightly curved feature with uneven detail, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "rectangular satin aluminum inspection coupon with rounded corners"
+  },
+  {
+    "index": 42,
+    "category": "stain",
+    "variant": 2,
+    "filename": "ref_stain_02.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of folded steel equipment cover. Show a translucent irregular brownish residue stain with no rust flaking or cavities. Defect layout: a broad irregular local feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, moderately oblique view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "folded steel equipment cover"
+  },
+  {
+    "index": 43,
+    "category": "stain",
+    "variant": 3,
+    "filename": "ref_stain_03.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of flat stainless steel mounting plate. Show a translucent irregular brownish residue stain with no rust flaking or cavities. Defect layout: several short localized features, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, tight detail view including a little part geometry. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "flat stainless steel mounting plate"
+  },
+  {
+    "index": 44,
+    "category": "stain",
+    "variant": 4,
+    "filename": "ref_stain_04.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of galvanized stamped sheet component. Show a translucent irregular brownish residue stain with no rust flaking or cavities. Defect layout: a diagonally oriented feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "galvanized stamped sheet component"
+  },
+  {
+    "index": 45,
+    "category": "stain",
+    "variant": 5,
+    "filename": "ref_stain_05.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of turned steel bushing with a broad rim. Show a translucent irregular brownish residue stain with no rust flaking or cavities. Defect layout: a localized feature next to a manufactured corner, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, moderately oblique view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "turned steel bushing with a broad rim"
+  },
+  {
+    "index": 46,
+    "category": "stain",
+    "variant": 6,
+    "filename": "ref_stain_06.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of machined aluminum end plate. Show a translucent irregular brownish residue stain with no rust flaking or cavities. Defect layout: one asymmetrical local feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, tight detail view including a little part geometry. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "machined aluminum end plate"
+  },
+  {
+    "index": 47,
+    "category": "stain",
+    "variant": 7,
+    "filename": "ref_stain_07.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of pressed steel shallow channel. Show a translucent irregular brownish residue stain with no rust flaking or cavities. Defect layout: small off-center feature near the upper right, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "pressed steel shallow channel"
+  },
+  {
+    "index": 48,
+    "category": "stain",
+    "variant": 8,
+    "filename": "ref_stain_08.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of cast aluminum ribbed casing. Show a translucent irregular brownish residue stain with no rust flaking or cavities. Defect layout: two adjacent localized features near the lower left, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, moderately oblique view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "cast aluminum ribbed casing"
+  },
+  {
+    "index": 49,
+    "category": "stain",
+    "variant": 9,
+    "filename": "ref_stain_09.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of circular steel mounting ring with bolt holes. Show a translucent irregular brownish residue stain with no rust flaking or cavities. Defect layout: one central irregular feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, tight detail view including a little part geometry. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "circular steel mounting ring with bolt holes"
+  },
+  {
+    "index": 50,
+    "category": "stain",
+    "variant": 10,
+    "filename": "ref_stain_10.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of stainless steel rectangular machine guard. Show a translucent irregular brownish residue stain with no rust flaking or cavities. Defect layout: a narrow feature near an edge, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "stainless steel rectangular machine guard"
+  },
+  {
+    "index": 51,
+    "category": "corrosion",
+    "variant": 1,
+    "filename": "ref_corrosion_01.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of rectangular satin aluminum inspection coupon with rounded corners. Show localized patchy oxidation, white-gray corrosion on aluminum or orange-brown rust on steel. Defect layout: a broad irregular local feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "rectangular satin aluminum inspection coupon with rounded corners"
+  },
+  {
+    "index": 52,
+    "category": "corrosion",
+    "variant": 2,
+    "filename": "ref_corrosion_02.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of folded steel equipment cover. Show localized patchy oxidation, white-gray corrosion on aluminum or orange-brown rust on steel. Defect layout: several short localized features, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, moderately oblique view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "folded steel equipment cover"
+  },
+  {
+    "index": 53,
+    "category": "corrosion",
+    "variant": 3,
+    "filename": "ref_corrosion_03.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of flat stainless steel mounting plate. Show localized patchy oxidation, white-gray corrosion on aluminum or orange-brown rust on steel. Defect layout: a diagonally oriented feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, tight detail view including a little part geometry. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "flat stainless steel mounting plate"
+  },
+  {
+    "index": 54,
+    "category": "corrosion",
+    "variant": 4,
+    "filename": "ref_corrosion_04.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of galvanized stamped sheet component. Show localized patchy oxidation, white-gray corrosion on aluminum or orange-brown rust on steel. Defect layout: a localized feature next to a manufactured corner, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "galvanized stamped sheet component"
+  },
+  {
+    "index": 55,
+    "category": "corrosion",
+    "variant": 5,
+    "filename": "ref_corrosion_05.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of turned steel bushing with a broad rim. Show localized patchy oxidation, white-gray corrosion on aluminum or orange-brown rust on steel. Defect layout: one asymmetrical local feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, moderately oblique view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "turned steel bushing with a broad rim"
+  },
+  {
+    "index": 56,
+    "category": "corrosion",
+    "variant": 6,
+    "filename": "ref_corrosion_06.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of machined aluminum end plate. Show localized patchy oxidation, white-gray corrosion on aluminum or orange-brown rust on steel. Defect layout: small off-center feature near the upper right, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, tight detail view including a little part geometry. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "machined aluminum end plate"
+  },
+  {
+    "index": 57,
+    "category": "corrosion",
+    "variant": 7,
+    "filename": "ref_corrosion_07.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of pressed steel shallow channel. Show localized patchy oxidation, white-gray corrosion on aluminum or orange-brown rust on steel. Defect layout: two adjacent localized features near the lower left, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "pressed steel shallow channel"
+  },
+  {
+    "index": 58,
+    "category": "corrosion",
+    "variant": 8,
+    "filename": "ref_corrosion_08.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of cast aluminum ribbed casing. Show localized patchy oxidation, white-gray corrosion on aluminum or orange-brown rust on steel. Defect layout: one central irregular feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, moderately oblique view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "cast aluminum ribbed casing"
+  },
+  {
+    "index": 59,
+    "category": "corrosion",
+    "variant": 9,
+    "filename": "ref_corrosion_09.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of circular steel mounting ring with bolt holes. Show localized patchy oxidation, white-gray corrosion on aluminum or orange-brown rust on steel. Defect layout: a narrow feature near an edge, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, tight detail view including a little part geometry. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "circular steel mounting ring with bolt holes"
+  },
+  {
+    "index": 60,
+    "category": "corrosion",
+    "variant": 10,
+    "filename": "ref_corrosion_10.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of stainless steel rectangular machine guard. Show localized patchy oxidation, white-gray corrosion on aluminum or orange-brown rust on steel. Defect layout: a slightly curved feature with uneven detail, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "stainless steel rectangular machine guard"
+  },
+  {
+    "index": 61,
+    "category": "burr",
+    "variant": 1,
+    "filename": "ref_burr_01.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of rectangular satin aluminum inspection coupon with rounded corners. Show a ragged thin attached machining burr at a hole or freshly machined edge. Defect layout: several short localized features, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "rectangular satin aluminum inspection coupon with rounded corners"
+  },
+  {
+    "index": 62,
+    "category": "burr",
+    "variant": 2,
+    "filename": "ref_burr_02.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of folded steel equipment cover. Show a ragged thin attached machining burr at a hole or freshly machined edge. Defect layout: a diagonally oriented feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, moderately oblique view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "folded steel equipment cover"
+  },
+  {
+    "index": 63,
+    "category": "burr",
+    "variant": 3,
+    "filename": "ref_burr_03.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of flat stainless steel mounting plate. Show a ragged thin attached machining burr at a hole or freshly machined edge. Defect layout: a localized feature next to a manufactured corner, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, tight detail view including a little part geometry. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "flat stainless steel mounting plate"
+  },
+  {
+    "index": 64,
+    "category": "burr",
+    "variant": 4,
+    "filename": "ref_burr_04.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of galvanized stamped sheet component. Show a ragged thin attached machining burr at a hole or freshly machined edge. Defect layout: one asymmetrical local feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "galvanized stamped sheet component"
+  },
+  {
+    "index": 65,
+    "category": "burr",
+    "variant": 5,
+    "filename": "ref_burr_05.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of turned steel bushing with a broad rim. Show a ragged thin attached machining burr at a hole or freshly machined edge. Defect layout: small off-center feature near the upper right, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, moderately oblique view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "turned steel bushing with a broad rim"
+  },
+  {
+    "index": 66,
+    "category": "burr",
+    "variant": 6,
+    "filename": "ref_burr_06.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of machined aluminum end plate. Show a ragged thin attached machining burr at a hole or freshly machined edge. Defect layout: two adjacent localized features near the lower left, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, tight detail view including a little part geometry. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "machined aluminum end plate"
+  },
+  {
+    "index": 67,
+    "category": "burr",
+    "variant": 7,
+    "filename": "ref_burr_07.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of pressed steel shallow channel. Show a ragged thin attached machining burr at a hole or freshly machined edge. Defect layout: one central irregular feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "pressed steel shallow channel"
+  },
+  {
+    "index": 68,
+    "category": "burr",
+    "variant": 8,
+    "filename": "ref_burr_08.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of cast aluminum ribbed casing. Show a ragged thin attached machining burr at a hole or freshly machined edge. Defect layout: a narrow feature near an edge, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, moderately oblique view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "cast aluminum ribbed casing"
+  },
+  {
+    "index": 69,
+    "category": "burr",
+    "variant": 9,
+    "filename": "ref_burr_09.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of circular steel mounting ring with bolt holes. Show a ragged thin attached machining burr at a hole or freshly machined edge. Defect layout: a slightly curved feature with uneven detail, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, tight detail view including a little part geometry. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "circular steel mounting ring with bolt holes"
+  },
+  {
+    "index": 70,
+    "category": "burr",
+    "variant": 10,
+    "filename": "ref_burr_10.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of stainless steel rectangular machine guard. Show a ragged thin attached machining burr at a hole or freshly machined edge. Defect layout: a broad irregular local feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "stainless steel rectangular machine guard"
+  },
+  {
+    "index": 71,
+    "category": "molding_flash",
+    "variant": 1,
+    "filename": "ref_molding_flash_01.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of cream molded plastic junction enclosure. Show a thin excess plastic fin protruding from a molded parting line. Defect layout: a diagonally oriented feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "cream molded plastic junction enclosure"
+  },
+  {
+    "index": 72,
+    "category": "molding_flash",
+    "variant": 2,
+    "filename": "ref_molding_flash_02.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of charcoal ABS instrument shell. Show a thin excess plastic fin protruding from a molded parting line. Defect layout: a localized feature next to a manufactured corner, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, moderately oblique view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "charcoal ABS instrument shell"
+  },
+  {
+    "index": 73,
+    "category": "molding_flash",
+    "variant": 3,
+    "filename": "ref_molding_flash_03.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of gray polymer mounting foot. Show a thin excess plastic fin protruding from a molded parting line. Defect layout: one asymmetrical local feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, tight detail view including a little part geometry. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "gray polymer mounting foot"
+  },
+  {
+    "index": 74,
+    "category": "molding_flash",
+    "variant": 4,
+    "filename": "ref_molding_flash_04.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of blue plastic storage lid. Show a thin excess plastic fin protruding from a molded parting line. Defect layout: small off-center feature near the upper right, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "blue plastic storage lid"
+  },
+  {
+    "index": 75,
+    "category": "molding_flash",
+    "variant": 5,
+    "filename": "ref_molding_flash_05.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of ivory molded terminal connector body. Show a thin excess plastic fin protruding from a molded parting line. Defect layout: two adjacent localized features near the lower left, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, moderately oblique view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "ivory molded terminal connector body"
+  },
+  {
+    "index": 76,
+    "category": "molding_flash",
+    "variant": 6,
+    "filename": "ref_molding_flash_06.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of slate gray molded control enclosure. Show a thin excess plastic fin protruding from a molded parting line. Defect layout: one central irregular feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, tight detail view including a little part geometry. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "slate gray molded control enclosure"
+  },
+  {
+    "index": 77,
+    "category": "molding_flash",
+    "variant": 7,
+    "filename": "ref_molding_flash_07.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of white polymer shallow tray corner. Show a thin excess plastic fin protruding from a molded parting line. Defect layout: a narrow feature near an edge, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "white polymer shallow tray corner"
+  },
+  {
+    "index": 78,
+    "category": "molding_flash",
+    "variant": 8,
+    "filename": "ref_molding_flash_08.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of tan plastic mounting post. Show a thin excess plastic fin protruding from a molded parting line. Defect layout: a slightly curved feature with uneven detail, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, moderately oblique view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "tan plastic mounting post"
+  },
+  {
+    "index": 79,
+    "category": "molding_flash",
+    "variant": 9,
+    "filename": "ref_molding_flash_09.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of green molded pipe connector. Show a thin excess plastic fin protruding from a molded parting line. Defect layout: a broad irregular local feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, tight detail view including a little part geometry. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "green molded pipe connector"
+  },
+  {
+    "index": 80,
+    "category": "molding_flash",
+    "variant": 10,
+    "filename": "ref_molding_flash_10.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of light gray threaded plastic end cap. Show a thin excess plastic fin protruding from a molded parting line. Defect layout: several short localized features, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "light gray threaded plastic end cap"
+  },
+  {
+    "index": 81,
+    "category": "burn_mark",
+    "variant": 1,
+    "filename": "ref_burn_mark_01.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of cream molded plastic junction enclosure. Show a localized brown-to-black scorch discoloration on plastic. Defect layout: a localized feature next to a manufactured corner, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "cream molded plastic junction enclosure"
+  },
+  {
+    "index": 82,
+    "category": "burn_mark",
+    "variant": 2,
+    "filename": "ref_burn_mark_02.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of charcoal ABS instrument shell. Show a localized brown-to-black scorch discoloration on plastic. Defect layout: one asymmetrical local feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, moderately oblique view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "charcoal ABS instrument shell"
+  },
+  {
+    "index": 83,
+    "category": "burn_mark",
+    "variant": 3,
+    "filename": "ref_burn_mark_03.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of gray polymer mounting foot. Show a localized brown-to-black scorch discoloration on plastic. Defect layout: small off-center feature near the upper right, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, tight detail view including a little part geometry. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "gray polymer mounting foot"
+  },
+  {
+    "index": 84,
+    "category": "burn_mark",
+    "variant": 4,
+    "filename": "ref_burn_mark_04.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of blue plastic storage lid. Show a localized brown-to-black scorch discoloration on plastic. Defect layout: two adjacent localized features near the lower left, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "blue plastic storage lid"
+  },
+  {
+    "index": 85,
+    "category": "burn_mark",
+    "variant": 5,
+    "filename": "ref_burn_mark_05.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of ivory molded terminal connector body. Show a localized brown-to-black scorch discoloration on plastic. Defect layout: one central irregular feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, moderately oblique view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "ivory molded terminal connector body"
+  },
+  {
+    "index": 86,
+    "category": "burn_mark",
+    "variant": 6,
+    "filename": "ref_burn_mark_06.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of slate gray molded control enclosure. Show a localized brown-to-black scorch discoloration on plastic. Defect layout: a narrow feature near an edge, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, tight detail view including a little part geometry. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "slate gray molded control enclosure"
+  },
+  {
+    "index": 87,
+    "category": "burn_mark",
+    "variant": 7,
+    "filename": "ref_burn_mark_07.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of white polymer shallow tray corner. Show a localized brown-to-black scorch discoloration on plastic. Defect layout: a slightly curved feature with uneven detail, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "white polymer shallow tray corner"
+  },
+  {
+    "index": 88,
+    "category": "burn_mark",
+    "variant": 8,
+    "filename": "ref_burn_mark_08.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of tan plastic mounting post. Show a localized brown-to-black scorch discoloration on plastic. Defect layout: a broad irregular local feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, moderately oblique view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "tan plastic mounting post"
+  },
+  {
+    "index": 89,
+    "category": "burn_mark",
+    "variant": 9,
+    "filename": "ref_burn_mark_09.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of green molded pipe connector. Show a localized brown-to-black scorch discoloration on plastic. Defect layout: several short localized features, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, tight detail view including a little part geometry. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "green molded pipe connector"
+  },
+  {
+    "index": 90,
+    "category": "burn_mark",
+    "variant": 10,
+    "filename": "ref_burn_mark_10.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of light gray threaded plastic end cap. Show a localized brown-to-black scorch discoloration on plastic. Defect layout: a diagonally oriented feature, physically plausible and clearly visible. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. Avoid unrelated prominent defects. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "light gray threaded plastic end cap"
+  },
+  {
+    "index": 91,
+    "category": "clean_reference",
+    "variant": 1,
+    "filename": "ref_clean_reference_01.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of rectangular satin aluminum inspection coupon with rounded corners. Show an intact defect-free surface with normal fine manufacturing texture. No visible defects, only regular finish. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. No marks, cracks, rust, stains, dents, burrs or pits. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "rectangular satin aluminum inspection coupon with rounded corners"
+  },
+  {
+    "index": 92,
+    "category": "clean_reference",
+    "variant": 2,
+    "filename": "ref_clean_reference_02.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of folded steel equipment cover. Show an intact defect-free surface with normal fine manufacturing texture. No visible defects, only regular finish. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, moderately oblique view. Keep the affected surface dominant and in focus; neutral background only at edges. No marks, cracks, rust, stains, dents, burrs or pits. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "folded steel equipment cover"
+  },
+  {
+    "index": 93,
+    "category": "clean_reference",
+    "variant": 3,
+    "filename": "ref_clean_reference_03.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of flat stainless steel mounting plate. Show an intact defect-free surface with normal fine manufacturing texture. No visible defects, only regular finish. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, tight detail view including a little part geometry. Keep the affected surface dominant and in focus; neutral background only at edges. No marks, cracks, rust, stains, dents, burrs or pits. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "flat stainless steel mounting plate"
+  },
+  {
+    "index": 94,
+    "category": "clean_reference",
+    "variant": 4,
+    "filename": "ref_clean_reference_04.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of galvanized stamped sheet component. Show an intact defect-free surface with normal fine manufacturing texture. No visible defects, only regular finish. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. No marks, cracks, rust, stains, dents, burrs or pits. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "galvanized stamped sheet component"
+  },
+  {
+    "index": 95,
+    "category": "clean_reference",
+    "variant": 5,
+    "filename": "ref_clean_reference_05.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of turned steel bushing with a broad rim. Show an intact defect-free surface with normal fine manufacturing texture. No visible defects, only regular finish. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, moderately oblique view. Keep the affected surface dominant and in focus; neutral background only at edges. No marks, cracks, rust, stains, dents, burrs or pits. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "turned steel bushing with a broad rim"
+  },
+  {
+    "index": 96,
+    "category": "clean_reference",
+    "variant": 6,
+    "filename": "ref_clean_reference_06.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of machined aluminum end plate. Show an intact defect-free surface with normal fine manufacturing texture. No visible defects, only regular finish. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, tight detail view including a little part geometry. Keep the affected surface dominant and in focus; neutral background only at edges. No marks, cracks, rust, stains, dents, burrs or pits. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "machined aluminum end plate"
+  },
+  {
+    "index": 97,
+    "category": "clean_reference",
+    "variant": 7,
+    "filename": "ref_clean_reference_07.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of pressed steel shallow channel. Show an intact defect-free surface with normal fine manufacturing texture. No visible defects, only regular finish. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. No marks, cracks, rust, stains, dents, burrs or pits. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "pressed steel shallow channel"
+  },
+  {
+    "index": 98,
+    "category": "clean_reference",
+    "variant": 8,
+    "filename": "ref_clean_reference_08.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of cast aluminum ribbed casing. Show an intact defect-free surface with normal fine manufacturing texture. No visible defects, only regular finish. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, moderately oblique view. Keep the affected surface dominant and in focus; neutral background only at edges. No marks, cracks, rust, stains, dents, burrs or pits. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "cast aluminum ribbed casing"
+  },
+  {
+    "index": 99,
+    "category": "clean_reference",
+    "variant": 9,
+    "filename": "ref_clean_reference_09.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of circular steel mounting ring with bolt holes. Show an intact defect-free surface with normal fine manufacturing texture. No visible defects, only regular finish. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, diffuse neutral overhead lighting, tight detail view including a little part geometry. Keep the affected surface dominant and in focus; neutral background only at edges. No marks, cracks, rust, stains, dents, burrs or pits. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "circular steel mounting ring with bolt holes"
+  },
+  {
+    "index": 100,
+    "category": "clean_reference",
+    "variant": 10,
+    "filename": "ref_clean_reference_10.png",
+    "prompt": "Use case: photorealistic-natural. Generate ONE new square industrial inspection photograph of stainless steel rectangular machine guard. Show an intact defect-free surface with normal fine manufacturing texture. No visible defects, only regular finish. This is an independently generated reference specimen for a manufacturing photo-search demo. Realistic macro photography with fine material texture, soft oblique inspection light from the right, near-perpendicular view. Keep the affected surface dominant and in focus; neutral background only at edges. No marks, cracks, rust, stains, dents, burrs or pits. No text, labels, annotations, arrows, numbers, collage, montage, grid, watermark or graphic symbols. A plausible inspection photo, not an illustration.",
+    "subject": "stainless steel rectangular machine guard"
+  }
+]

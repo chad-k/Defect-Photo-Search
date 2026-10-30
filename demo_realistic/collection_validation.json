@@ -1,0 +1,20 @@
+{
+  "references": 100,
+  "categories": {
+    "Scratch": 10,
+    "Crack": 10,
+    "Pitting": 10,
+    "Dent": 10,
+    "Stain": 10,
+    "Corrosion": 10,
+    "Burr": 10,
+    "Molding flash": 10,
+    "Burn mark": 10,
+    "No visible defect": 10
+  },
+  "unique_files": 100,
+  "unique_decoded_images": 100,
+  "comparison_test_pack_images": 100,
+  "exact_file_overlap": 0,
+  "exact_decoded_image_overlap": 0
+}
